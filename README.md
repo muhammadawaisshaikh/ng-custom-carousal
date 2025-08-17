@@ -1,5 +1,7 @@
 # ng-custom-carousel
 
+![ng-custom-carousel Demo](demo/image.png)
+
 A modern, customizable carousel component for Angular 20+ built with signals and standalone components. This library provides a feature-rich carousel with no third-party dependencies, using only custom SCSS for styling.
 
 ## Features
